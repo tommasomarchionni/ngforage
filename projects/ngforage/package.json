@@ -1,5 +1,5 @@
 {
-  "name": "ngforage",
+  "name": "@tommasomarchionni/ngforage",
   "version": "12.0.0",
   "peerDependencies": {
     "@angular/common": "^18.2.6",
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alorel/ngforage.git"
+    "url": "git+https://github.com/tommasomarchionni/ngforage.git"
   },
   "homepage": "https://alorel.github.io/ngforage/",
   "bugs": {
